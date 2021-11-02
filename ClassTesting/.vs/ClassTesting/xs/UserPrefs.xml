@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{32318680-80BD-4F88-B619-2B646C2B4389}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassTesting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassTesting/Models/Car.cs">
+    <Files>
+      <File FileName="ClassTesting/Program.cs" Line="17" Column="32" />
+      <File FileName="ClassTesting/Models/Car.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassTesting" expanded="True">
+            <Node name="ClassTesting" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Car.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

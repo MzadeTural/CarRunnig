@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICO3W1BX0x9FfvUEBiqRasE97rEmYAkFPLR2p9ip2RJOKxmcPgHarzIDBqhiyy/r23C8Gy6a8Wbs63xGr8YFzw==",
+  "success": true,
+  "projectFilePath": "/Users/mjollnnirr/Desktop/ClassTesting/ClassTesting/ClassTesting.csproj",
+  "expectedPackageFiles": [
+    "/Users/mjollnnirr/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.17/microsoft.netcore.app.host.osx-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
